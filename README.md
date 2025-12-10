@@ -46,4 +46,9 @@ python -m pip install opencv-python mediapipe
 
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/c2b73a1c-78a1-4c8e-9aee-1e50a0ce11bf" />
 
-
+### body_posture_detection.py
+```bash
+python -m pip install opencv-python
+python -m pip install opencv-python mediapipe
+``` 
+https://github.com/user-attachments/assets/53439fdc-4e56-4ba7-81f2-becea580bd50
