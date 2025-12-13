@@ -52,3 +52,10 @@ python -m pip install opencv-python
 python -m pip install opencv-python mediapipe
 ``` 
 https://github.com/user-attachments/assets/53439fdc-4e56-4ba7-81f2-becea580bd50
+
+### duplicate_remove.py
+
+belirttiğin bir klasör içindeki duplicate (aynı) dosyaları silen sade ve güvenli bir Python kodu var.
+Mantık: Dosyaların hash (SHA256) değerini alır, birebir aynı olanlardan sadece birini bırakır.
+
+Bu yöntem dosya adına değil içeriğine bakar, en sağlıklısıdır.
