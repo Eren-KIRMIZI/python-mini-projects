@@ -64,3 +64,27 @@ Bu yöntem dosya adına değil içeriğine bakar, en sağlıklısıdır.
 
 Kriptografik karma fonksiyonları kullanarak dosya bütünlüğünü doğrulayan hafif bir Python yardımcı programı.
 Depolanmış ve mevcut karma değerlerini karşılaştırarak yetkisiz değişiklikleri tespit eder.
+
+
+### not_tut.py
+
+- Not Defteri Pro, PyQt5 kullanılarak geliştirilmiş masaüstü bir metin düzenleyici uygulamasıdır.
+- Zengin metin formatında not alma, görsel ekleme ve belgeleri PDF olarak dışa aktarma imkânı sunar.
+- Otomatik kayıt özelliği sayesinde veri kaybını önler.
+
+## Özellikler
+- Zengin metin düzenleme (font, boyut, kalın, italik, altı çizili)
+- Metin hizalama (sol, orta, sağ, iki yana yasla)
+- Metin rengi seçimi
+- Resim ekleme (dosyadan ekleme ve panodan yapıştırma)
+- HTML ve TXT dosyalarını açma ve kaydetme
+- PDF formatında dışa aktarma
+- Otomatik kayıt ve önceki oturumu geri yükleme
+- Pencere boyutu ve konum bilgisini hatırlama
+
+## Kurulum
+- PyQt5 kütüphanesini yüklemek için:
+  ```bash
+  pip install PyQt5
+
+  <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/6eb7ffc8-4408-4deb-96a7-760cc8726428" />
