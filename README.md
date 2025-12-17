@@ -90,6 +90,7 @@ Depolanmış ve mevcut karma değerlerini karşılaştırarak yetkisiz değişik
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/6eb7ffc8-4408-4deb-96a7-760cc8726428" />
 
 
+
 ### keylogger.py
 
 - Eğitim amaçlı geliştirilmiş basit bir keylogger uygulaması. Klavye tuşlarını kaydeder ve belirli aralıklarla e-posta ile gönderir.
@@ -128,4 +129,5 @@ pip install keyboard
 mail.login('sizin-mail@gmail.com', 'UYGULAMA_ŞİFRENİZ')
 ```
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/5c2ef516-07fa-4ea3-8006-1490b5a18f14" />
+
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/5c2ef516-07fa-4ea3-8006-1490b5a18f14" />
